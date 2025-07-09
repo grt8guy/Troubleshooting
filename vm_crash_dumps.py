@@ -2,6 +2,9 @@
 # This script finds and analyzes Windows crash dump files (.dmp) using WinDbg (cdb.exe).
 # It requires the Windows Debugging Tools to be installed.
 # Ensure you have the necessary permissions to access the dump files and run WinDbg.
+# Created by: [John W. Braunsdorfer](https://github.com/grt8guy)
+# version: 1.0.0
+# Date: 2025-10-09
 
 import os
 import glob
